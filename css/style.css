@@ -392,6 +392,9 @@ body {
   font-size: 18px;
   font-family: "LatoReg";
   margin: 0;
+   @media (max-width: 576px) {
+margin-top:15px;
+}
 }
 
 .title_blue.title_small {
